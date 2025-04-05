@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="15" />
@@ -40,24 +42,32 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="cat_with_coffee.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://t.me/development_core/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=development_core&logo=telegram&label=Telegram&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="35" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Cored.Dev-Cored&left_color=azure&left_text=Visits"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Cored.Dev-Cored&left_text=Visits"  />
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dev-Cored/Dev-Cored/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Cored/Dev-Cored/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Cored/Dev-Cored/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-Cored/Dev-Cored/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
