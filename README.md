@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Cored.Dev-Cored&left_text=Visitors"  />
+<a href="https://u8views.com/github/Dev-Cored"><img src="https://u8views.com/api/v1/github/profiles/103052766/views/day-week-month-total-count.svg"></a>
 
 ###
 
