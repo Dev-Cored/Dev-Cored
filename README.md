@@ -1,5 +1,7 @@
 # Привет, я Дмитрий!
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Cored.Dev-Cored&left_text=Visitors"  />
+
 **Студент IT-Колледжа <img src="https://static.tildacdn.com/tild3835-3638-4035-b135-316236636165/Fat_logo.svg" width="60"> MAXITET | Backend DevOps разработчик**
 
 Погружаюсь в мир современных технологий все глубже с каждой написанной строчкой кода. Люблю логику и сложные цепочки действий и алгоритмов. На любую проблему найдется статья в интернете ;)
