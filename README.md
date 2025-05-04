@@ -1,63 +1,76 @@
-<h2 align="left">Hi 👋! My name is Dmitry (Dev-Cored) and I'm a backend developer</h2>
+# Привет, я Дмитрий!
 
-###
+**Студент IT-Колледжа <img src="https://static.tildacdn.com/tild3835-3638-4035-b135-316236636165/Fat_logo.svg" width="60"> MAXITET | Backend DevOps разработчик**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Cored&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dev-Cored&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Cored&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Погружаюсь в мир современных технологий все глубже с каждой написанной строчкой кода. Люблю логику и сложные цепочки действий и алгоритмов. На любую проблему найдется статья в интернете ;)
 
-###
+🎯 **Цель:** Стать профильным DevOps и Backend разработчиком. \
+🌵 **Изучаю:** Сетевое программирование, развертка серверов, Docker, корпаративные сети, а так же прикладное программирование.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
+---
 
-###
+## 🏅 Достижения и сертификаты
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 📜 Пройденные курсы
 
-###
+| Курс                         | Организация       | Дата начала | Дата окончания |
+|------------------------------|-------------------|-------------|----------------|
+| Python (Базовый/Продвинутый) | Школа программирования Айтигенио | 18.02.2022  | 26.05.2023     |
+| С# (Базовый)                 | Школа программирования Айтигенио | 29.02.2023  | 09.04.2024     |
+| Java                         | Школа программирования Айтигенио | 16.03.2024  | 04.06.2024     |
+| HTML5 + CSS3                 | Школа программирования Айтигенио | 06.05.2024  | 17.06.2024     | 
 
-<div align="left">
-  <a href="https://t.me/development_core/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+### ⚔️ Codewars
+[![Codewars](https://www.codewars.com/users/Dev-Cored/badges/large)](https://www.codewars.com/users/Dev-Cored/badges/large)
 
-###
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Cored.Dev-Cored&left_color=azure&left_text=Visits"  />
+## ⚒️ **Технологии и инструменты**
 
-###
+### **Языки программирования**
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+### **Инструменты и библиотеки**
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+
+## 📱 **Связь со мной**
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-@development__core-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/development_core)
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" alt="tg-logo" width=16> **Мой канал в Telegram**
+
+[![Telegram](https://img.shields.io/badge/Telegram-channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_core_official_public)
+
+---
+
+## 📊 **Статистика активности**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dev-Cored&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Cored&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+---
+
+**<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="py logo" width=15> Код - это искусство, а я - начинающий художник.**
+
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Dev-Cored/Dev-Cored/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dev-Cored/Dev-Cored/output/snake.svg" alt="snake animation" />
 
 ###
