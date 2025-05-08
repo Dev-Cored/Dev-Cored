@@ -5,12 +5,15 @@
 
 
 **Посещения**  
+
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/endpoint?url=https://dev-cored-git-visitor-counter.mita54492.workers.dev/visits/today" alt="Visits Today">
   <img src="https://img.shields.io/endpoint?url=https://dev-cored-git-visitor-counter.mita54492.workers.dev/visits/week" alt="Visits This Week">
   <img src="https://img.shields.io/endpoint?url=https://dev-cored-git-visitor-counter.mita54492.workers.dev/visits/mounth" alt="Visits This Month">
   <img src="https://img.shields.io/endpoint?url=https://dev-cored-git-visitor-counter.mita54492.workers.dev/visits/total" alt="Visits Total">
-</div>
+</div>  
+
+---
 
 **Студент IT-Колледжа <img src="https://static.tildacdn.com/tild3835-3638-4035-b135-316236636165/Fat_logo.svg" width="60"> MAXITET | Backend DevOps разработчик**
 
