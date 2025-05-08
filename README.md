@@ -4,7 +4,7 @@
 </h1>
 
 
-**Посещения**  
+### Посещения  
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/endpoint?url=https://dev-cored-git-visitor-counter.mita54492.workers.dev/visits/today" alt="Visits Today">
